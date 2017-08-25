@@ -7,7 +7,7 @@
 
 ### Form JS Create by karinzaa! </n>
 
-* Download or Copy `form1.html`</n>
+* Clone or download this git</n>
 * Edit in editor and test in browser</n> 
 
 License
