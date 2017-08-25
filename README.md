@@ -5,9 +5,9 @@
 
 # Node.JS
 
-### Form JS in HTML Create by karinzaa! </n>
+### Form JS Create by karinzaa! </n>
 
-* Download or Copy `form.html` in `web` folder</n>
+* Download or Copy `form1.html`</n>
 * Edit in editor and test in browser</n> 
 
 License
