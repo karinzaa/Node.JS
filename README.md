@@ -14,4 +14,3 @@ License
 =========
 The MIT license
 
-![Imgur](http://i.imgur.com/z9yRvX2.png?1)
